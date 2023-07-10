@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="PSBioskopZ">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../PSBioskop/out/production/PSBioskopZ" />
+      <root url="jar://$PROJECT_DIR$/../MyLibraries/mysql-connector-j-8.0.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

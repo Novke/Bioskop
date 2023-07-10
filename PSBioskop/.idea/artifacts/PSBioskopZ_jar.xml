@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PSBioskopZ:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PSBioskopZ_jar</output-path>
+    <root id="archive" name="PSBioskopZ.jar">
+      <element id="module-output" name="PSBioskopZ" />
+    </root>
+  </artifact>
+</component>

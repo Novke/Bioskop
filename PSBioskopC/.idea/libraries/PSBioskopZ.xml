@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="PSBioskopZ">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../MyLibraries/DateChooser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyLibraries/DateChooserDemo.jar!/" />
+      <root url="file://$PROJECT_DIR$/../PSBioskop/out/production/PSBioskopZ" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
